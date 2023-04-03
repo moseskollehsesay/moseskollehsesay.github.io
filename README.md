@@ -1,14 +1,10 @@
 # My Personal Website
 
-Welcome to my personal website! My name is Moses Kolleh Sesay and I am a masters student at Wageningen University and Research. 
-
 ## About Me
 
-I'm passionate about [Your Interests], and I love [Your Activities]. In my free time, you can find me [Your Hobbies].
+Hi, I'm [Your Name] and I'm a [Your Profession/Hobby]. I'm passionate about [Your Interests], and I love [Your Activities]. In my free time, you can find me [Your Hobbies].
 
-## My Work
-
-### Portfolio
+## Portfolio
 
 Here are some of the [Your Work] that I've done:
 
@@ -16,7 +12,7 @@ Here are some of the [Your Work] that I've done:
 - [Project 2](https://www.example.com/project2)
 - [Project 3](https://www.example.com/project3)
 
-### Blog
+## Blog
 
 I also write about [Your Topics] on my blog. Check out some of my latest posts:
 
@@ -26,6 +22,5 @@ I also write about [Your Topics] on my blog. Check out some of my latest posts:
 
 ## Contact Me
 
-If you want to get in touch, you can reach me at [Your Email Address]. You can also find me on [Your Social Media] or [Your Professional Network]. 
+Want to get in touch? You can reach me at [Your Email] or connect with me on [Your Social Media Accounts].
 
-Thanks for visiting my website!
