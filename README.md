@@ -1,6 +1,6 @@
 # My Personal Website
 
-Welcome to my personal website! My name is [Your Name] and I'm a [Your Profession/Hobby]. 
+Welcome to my personal website! My name is Moses Kolleh Sesay and I am a masters student at Wageningen University and Research. 
 
 ## About Me
 
